@@ -8,6 +8,7 @@ I'm a graphics programmer, and find game development and graphics programming to
 - [**Hekky Shaders**](https://docs.hyblocker.dev/en/shaders/hekky-atmosphere/what-is-hekky-atmosphere/), a collection of shaders which compliment Hekky PBR, aiming to allow for higher fidelity visuals in Unity with relative ease, all while aiming for high performance in VR.
 - [**Augmented Hip**](https://github.com/aughip/augmented-hip), a custom, purely software based, virtual hip tracker, for SteamVR, which uses inverse kinematics for hip estimation, provided you have leg tracking.
 - [**Hekky Shader Documentation**](https://github.com/hyblocker/hekky-shader-docs), using [Astro](https://astro.build) and custom controls, to generate a static documentation website from markdown.
+- [**Amethyst Installer**](https://github.com/KinecttoVR/Amethyst-Installer), the GUI installer for [Amethyst](https://github.com/KinectToVR/Amethyst).
 - [**Pixelcord**](https://github.com/hyblocker/pixelcord), a theme for popular social platform [Discord](https://discord.com).
 
 ---

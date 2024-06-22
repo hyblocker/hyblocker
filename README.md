@@ -19,3 +19,5 @@ I'm a graphics programmer, and find low-level programming, driver development, v
     <img width="250" align="center" src="https://github-readme-stats.vercel.app/api?username=hyblocker&hide=contribs,issues,prs&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=45,00DDFF,4264FF&icon_color=ffffff&text_color=ffffff&include_all_commits=true&disable_animations=true&count_private=true" />
   </a>
 </div>
+
+<a href='https://ko-fi.com/hyblocker' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
